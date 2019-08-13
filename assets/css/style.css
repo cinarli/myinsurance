@@ -1,0 +1,97 @@
+.container-fluid{
+    padding: 0px;
+}
+#first_row{
+    position: absolute;
+    z-index: 2323233;
+    width: 100%;
+}
+
+#header button{
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
+
+}
+#search,#email,#logout{
+    margin-top: 20px;
+}
+#search_btn{
+    font-size: 20px;
+}
+#search_btn:hover{
+    
+    color:red;
+    cursor: pointer;
+}
+/*-------------------------------*/
+#con_xidmet{
+    margin-top: 30px;
+}
+.xidmetler{
+    margin-left: auto;
+    margin-right: auto;
+}
+.xidmetler img{
+    height: 300px;
+}
+/*Xidmetler*/
+.sekil{
+    width: 170px;
+    height: 150px;
+  }
+  
+.xidmetrow{
+    margin-top: 20px;
+}
+#body{
+   background-color: grey;
+    background-size: cover;
+    height: 100%;
+}
+.footer-distributed{
+    margin-top: 0;
+}
+.row3{
+    margin-top: 100px;
+}
+/*xidmetler son*/
+/*Login*/
+.wthree-text{
+    margin-top: 10px;
+}
+#inputlar{
+    margin-top: 30px;
+    margin-left: 40px;
+}
+.tarix{
+    color: #e0ebeb;
+    margin: 0px;
+}
+#add_sigorta{
+    margin-bottom: 20px;
+}
+/*register*/
+.clear{
+    margin-top:10px;
+    font-family:"Times New Roman";
+    font-size : '20px';
+    color : white;
+    border-bottom: 1px solid red;
+    display: none;
+    padding-bottom: 5px;
+}
+/*menu*/
+#logout{
+    color:white;
+    margin-left: 10px;
+    float: right;
+}
+#logout:hover{
+    color:yellow;
+}
+#email{
+    float: right;
+    color: white;
+}
+/*menu son*/
